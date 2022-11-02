@@ -6,7 +6,7 @@ I am a dynamically developing Frontend Developer looking and ready for new chall
 ## What I am currently doing ?
 
 - :mag: I’m currently looking for job as Frontend Developer so if you are interested in feel free to contact me by emial or other way
-- :book: Currently I am learning and improving my skills related to Redux, Redux-Saga, React-Router
+- :book: Currently, I am learning the typescript and improving my already acquired skills.
 - :hammer: i am currently working on new project - [Movies Browser](https://galerafrontend.github.io/Movies-browser/)
  
  ## How to reach me?
